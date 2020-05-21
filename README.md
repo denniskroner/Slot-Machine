@@ -11,20 +11,20 @@ The player can exit the game at any time by typing ‘N’.
 Appendix: Sample runs
 
 ========== SLOT MACHINE ========= <br>
-Minimum bet is 2. Type 'N' to exit.
-you have 10.00
-How much do you bet: 6
-You Score 9.0 - you have 13.00
-How much do you bet: 10
-You Score 15.0 - you have 18.00
+Minimum bet is 2. Type 'N' to exit. <br>
+you have 10.00 <br>
+How much do you bet: 6 <br>
+You Score 9.0 - you have 13.00 <br>
+How much do you bet: 10 <br>
+You Score 15.0 - you have 18.00 <br>
 
 ========== SLOT MACHINE ========= <br>
-Minimum bet is 2. Type 'N' to exit. you have 10.00
-How much do you bet: 4
-You Score 0 - you have 6.00
-How much do you bet: 6
-You Score 9.0 - you have 9.00
-How much do you bet: 9
-You Score 13.5 - you have 13.50
-How much do you bet: 13
-You Score 0 - Thank you for playing. You are leaving with 0.50.
+Minimum bet is 2. Type 'N' to exit. you have 10.00 <br>
+How much do you bet: 4 <br>
+You Score 0 - you have 6.00 <br>
+How much do you bet: 6 <br>
+You Score 9.0 - you have 9.00 <br>
+How much do you bet: 9 <br>
+You Score 13.5 - you have 13.50 <br>
+How much do you bet: 13 <br>
+You Score 0 - Thank you for playing. You are leaving with 0.50. <br>
